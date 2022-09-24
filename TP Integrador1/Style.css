@@ -22,7 +22,7 @@
   font-weight: bold;
   color: white;
   align-content: center;
-  background-color: rgb(44, 43, 43);
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
 }
 
 .menu-texto {
